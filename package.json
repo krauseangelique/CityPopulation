@@ -1,0 +1,22 @@
+{
+  "name": "citypopulation",
+  "version": "1.0.0",
+  "description": "api City Population",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krauseangelique/CityPopulation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krauseangelique/CityPopulation/issues"
+  },
+  "homepage": "https://github.com/krauseangelique/CityPopulation#readme",
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}
